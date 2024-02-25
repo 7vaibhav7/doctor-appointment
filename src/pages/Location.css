@@ -1,0 +1,26 @@
+.location-wrapper{
+    display:flex;
+    justify-content : center;
+    gap: 200px;
+    align-items: center;
+    margin-top:50px
+}
+.location-wrapper a{
+    background-color:rgb(147 51 234);
+    color:white;
+    height:80px;
+    padding-top:5px;
+    text-align:center;
+    border-radius:2px;
+    padding-left:10px;
+    padding-right:10px;
+    font-size:50px;
+    border-radius:5px
+
+}
+.location-wrapper img {
+    height:300px;
+    width:500px;
+    border: 2px solid black;
+    padding : 10px
+}
